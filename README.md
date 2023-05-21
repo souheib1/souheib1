@@ -1,7 +1,7 @@
-<h1 align="center">Hi, There 👋</h1>
+<h1 align="center">Hi, There 👋</h1>   <p align="right"> <img src="https://komarev.com/ghpvc/?username=souheib1&label=Profile%20views&color=0e75b6&style=flat" alt="souheib1" /> </p>
 <h4 align="center">I am an engineering student at Telecom Paris specializing in Data Science and Image. I am passionate about Data Processing and Computer Vision.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souheib1&label=Profile%20views&color=0e75b6&style=flat" alt="souheib1" /> </p>
+
 
 - 🌱 I’m currently learning **Text Mining | Computer Vision Applications in the Medical Field**
 
