@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Text Mining | Computer Vision Applications in the Medical Field**
+- 🌱 I’m currently learning **Self Supervised Learning | Computer Vision Applications in the Medical Field**
 
 ## 🔧 Languages and Tools:
 <p align="left"> 
