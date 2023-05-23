@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29AEF7&background=1E1E1E&center=true&vCenter=true&width=1000&lines=Hi%2C+There+%F0%9F%91%8B;Welcome+to+my+Github!+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29AEF7&background=1E1E1E&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=+++I+am+an+engineering+student+at+Telecom+Paris+specializing+in+Data+Science+and+Image.+;+++I+am+passionate+about+Data+Processing+and+Computer+Vision.)](https://git.io/typing-svg)
 
 
 <h4 align="left">I am an engineering student at Telecom Paris specializing in Data Science and Image. <br>
