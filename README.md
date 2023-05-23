@@ -1,5 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=souheib1&label=Profile%20views&color=0e75b6&style=flat" alt="souheib1" /> </p>
-<h1 align="center">Hi, There 👋</h1>   
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C94F7&background=1E1E1E&center=true&vCenter=true&width=435&lines=Hi%2C+There+%F0%9F%91%8B;Welcome+to+my+Github!+;Nice+to+meet+you)](https://git.io/typing-svg) 
+
+
+
+
 <h4 align="center">I am an engineering student at Telecom Paris specializing in Data Science and Image. I am passionate about Data Processing and Computer Vision.</h4>
 
 
