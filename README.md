@@ -5,7 +5,8 @@
 
 
 
-<h4 align="left">I am an engineering student at Telecom Paris specializing in Data Science and Image. I am passionate about Data Processing and Computer Vision.</h4>
+<h4 align="left">I am an engineering student at Telecom Paris specializing in Data Science and Image. <br>
+I am passionate about Data Processing and Computer Vision.</h4>
 
 
 
