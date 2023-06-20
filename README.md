@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Self Supervised Learning | Computer Vision Applications in the Medical Field**
+- 🌱 I’m currently learning **Self Supervised Learning | Multi Instance Learning**
 
 ## 🔧 Languages and Tools:
 <p align="left"> 
