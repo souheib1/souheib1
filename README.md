@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Self Supervised Learning | Multi-Instance Learning**
+- 🌱 I’m currently learning **Self Supervised Learning | Image Transformers**
 -  👨‍💻 I’m currently working on the project **Mixing weakly supervised and self-supervised learning techniques for melanoma relapse detection: a comparative study**
 
 ## 🔧 Languages and Tools:
