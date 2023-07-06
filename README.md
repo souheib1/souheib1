@@ -6,8 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Self Supervised Learning | Image Transformers**
--  👨‍💻 I’m currently working on the project **Mixing weakly supervised and self-supervised learning techniques for melanoma relapse detection: a comparative study**
+- 🌱 I’m currently learning **Multiple Instance Learning | Image Transformers**
+- 💻 Last project:**Mixing weakly supervised and self-supervised learning techniques for melanoma relapse detection: a comparative study** 
+- 👨‍💻 I’m currently working on the project **Refinement of Deep-Learning approaches for unsupervised cell Segmentation and Classification on micro-fluidic Images**
 
 ## 🔧 Languages and Tools:
 <p align="left"> 
