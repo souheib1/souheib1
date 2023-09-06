@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Multiple Instance Learning | Image Transformers**
 - 💻 Last project:**Mixing weakly supervised and self-supervised learning techniques for melanoma relapse detection: a comparative study** 
 - 👨‍💻 I’m currently working on the project **Refinement of Deep-Learning approaches for unsupervised cell Segmentation and Classification on micro-fluidic Images**
+- 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheib/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔧 Languages and Tools:
 <p align="left"> 
