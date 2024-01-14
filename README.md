@@ -5,9 +5,9 @@
 <h4 align="center">I am an engineering student at IP-Paris and Université Paris Saclay, specializing in Data Science and Artificial Intelligence. </h4>
 
 
-- 🌱 I’m currently learning **Advanced learning for text and graph data | Computational Statistics**
-- 💻 Last project:**Refinement of Deep-Learning approaches for unsupervised cell Segmentation and Classification on micro-fluidic Images** 
-- 👨‍💻 I’m currently working on the projects **Clustering with Multi-Layer Graphs | Capturing Label Characteristics in VAEs**
+- 🌱 I’m currently learning **Reinforcement learning | Point clouds and 3D reconstruction**
+- 💻 Last project:**Deep Latent Variable Models: Leveraging the exact conditional likelihood** 
+- 👨‍💻 I’m currently working on the projects **Online A-Optimal Design and Active Linear Regression| Capturing Label Characteristics in VAEs**
 - 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheib/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔧 Languages and Tools:
