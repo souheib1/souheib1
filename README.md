@@ -5,7 +5,7 @@
 <h4 align="center">I am an engineering student at IP-Paris and Université Paris Saclay, specializing in Data Science and Artificial Intelligence. </h4>
 
 
-- 🌱 I’m currently learning **Reinforcement learning | Point clouds and 3D reconstruction**
+- 🌱 I’m currently learning **Diffusion Models | Point clouds and 3D reconstruction**
 - 💻 Last project:**Online A Optimal Design for Bandit Problem | Molecule Retrieval with Natural Language Queries** 
 - 👨‍💻 I’m currently working on the projects **Automated classification of PET CT scans AI tools for Nuclear Medicine (in collaboration with doctors) | Point Transformers**
 - 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheib/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
