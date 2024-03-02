@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Diffusion Models | Point clouds and 3D reconstruction**
 - 💻 Last project:**Online A Optimal Design for Bandit Problem | Molecule Retrieval with Natural Language Queries** 
-- 👨‍💻 I’m currently working on the projects **Automated classification of PET CT scans AI tools for Nuclear Medicine (in collaboration with doctors) | Point Transformers**
+- 👨‍💻 I’m currently working on the projects **Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization | Point Transformers**
 - 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheib/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔧 Languages and Tools:
