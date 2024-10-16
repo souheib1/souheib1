@@ -6,8 +6,7 @@
 
 
 - 🌱 I’m currently learning **Diffusion Models | Point clouds and 3D reconstruction**
-- 💻 Last project:**Arbitrary Style Transfer in Real-Time** 
-- 👨‍💻 I’m currently working on  **Foundation Models for Medical Imaging**
+- 👨‍💻 I’m currently working on  **Univesal Medical Image Segmentation : A Few-shot Learning Approach**
 - 📫 How to reach me:     <a align="center" href="https://www.linkedin.com/in/souheib/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔧 Languages and Tools:
